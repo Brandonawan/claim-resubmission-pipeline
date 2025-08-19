@@ -16,7 +16,12 @@ Create and Activate Virtual Environment
 ## Run commands
 - python3 claim_pipeline.py
 
-## outputs
+## Terminal Output
+- The script will output the processing status of each claim in the terminal.
+- [Output Example](images/claim_pipeline.png)
+
+## outputed files
+- The script processes the claims data and generates two JSON files in the current directory.
 - The script will generate a json file named `rejection_log.json` in the current directory.
 You can view it here: [rejection_log.json](./rejection_log.json)
 
