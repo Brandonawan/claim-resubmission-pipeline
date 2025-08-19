@@ -14,7 +14,9 @@ Create and Activate Virtual Environment
 - pip install -r requirements.txt
 
 ## Run commands
-- python3 claim_pipeline.py
+```bash
+python3 claim_pipeline.py
+```
 
 ## Terminal Output
 - The script will output the processing status of each claim in the terminal.
